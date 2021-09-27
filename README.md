@@ -37,7 +37,7 @@ The connection is managed in /model/db.js. It is opened at application start, an
 
 Postman collection for testing out created endpoints.
 
-Link: https://www.getpostman.com/collections/ed225157e332aef7948b
+Link: https://www.getpostman.com/collections/6c338a24403e8b2d07ae
 
 ## cURL Commands
 
