@@ -1,0 +1,15 @@
+{
+    "name": "User Auth Service",
+    "version": "0.1.0",
+    "description": "This is a service for managing user roles and access levels.",
+    "title": "Koot Framework",
+    "url" : "https://localhost:3000/v1",
+    "header": {
+      "title": "Setup",
+      "filename": "./doc-templates/header.md"
+    },
+    "footer": {
+      "title": "Cleanup"
+    }
+  }
+  
